@@ -4,8 +4,12 @@ This web application can detect emotions from given text. A total of 28 emotions
 ***
 
 # Deploying the application
-Open the 'flask_server' directory in a terminal and enter the following command:
+
+This application requires Python and React.
+
+Open the 'flask_server' directory in a terminal and enter the following commands:
 ```
+pip install -r requirements.txt
 python app.py
 ```
 Open the 'react_server' directory in another terminal, and enter the following command:
