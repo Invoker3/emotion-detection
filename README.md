@@ -14,5 +14,6 @@ python app.py
 ```
 Open the 'react_server' directory in another terminal, and enter the following command:
 ```
+npm install react-scripts --save  
 npm start
 ```
